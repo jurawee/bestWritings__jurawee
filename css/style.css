@@ -108,6 +108,7 @@ header .row {
     text-transform: uppercase;
     font-family: RobotoReg;
     font-size: 22px;
+    transition: .2s;
 }
 
 .login-chat a:hover {
@@ -122,6 +123,7 @@ header .row {
     background-repeat: no-repeat;
     height: 22px;
     width: 40px;
+    transition: .2s;
 }
 
 .login:hover::after {
@@ -135,6 +137,7 @@ header .row {
     background-repeat: no-repeat;
     height: 22px;
     width: 40px;
+    transition: .2s;
 }
 
 .live-chat:hover::after {
@@ -168,6 +171,7 @@ header .bg-main-1 {
     padding: 0;
     margin-left: 0;
     margin-right: 0;
+    transition: .5s;
 }
 
 #nav-list li:not(:first-child)::before {
@@ -283,6 +287,7 @@ header .bg-main-1 {
     display: block;
     text-transform: capitalize;
     text-decoration: none;
+    transition: .5s;
 }
 
 .we-offer .col-6 a:nth-child(1) {
@@ -415,6 +420,7 @@ header .bg-main-1 {
     margin-top: 46px;
     width: 100%;
     position: relative;
+    transition: .4s;
 }
 
 .order-now a {
@@ -562,6 +568,7 @@ header .bg-main-1 {
     padding: 10px 20px;
     text-decoration: none;
     margin-left: 72px;
+    transition: .2s;
 }
 
 .bg-essay .col:hover {
